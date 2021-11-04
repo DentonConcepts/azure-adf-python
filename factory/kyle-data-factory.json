@@ -1,0 +1,9 @@
+{
+	"name": "kyle-data-factory",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "504d740e-2d25-49c2-8dc5-c066395c3b3d",
+		"tenantId": "612a18dc-c204-4574-8d3d-b8fa215dad13"
+	}
+}
